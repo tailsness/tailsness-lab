@@ -4,7 +4,7 @@
   "name": "My first app",
   "version": "1",
   
-  "app":{ 
+  "app": { 
   
     "background": {
       "scripts": ["main.js"]
