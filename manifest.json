@@ -1,17 +1,13 @@
 {
-
-  "Manifest_version": 2,
-  "name": "My first app",
+  
+ "manifest_version": 2, 
+  "name": "My first App", 
   "version": "1",
-  
-  "app": { 
-  
-    "background": {
-      "scripts": ["main.js"]
-      
+  "app": {
+      "background": {
+          "scripts": ["main.js"]
+        
       }
-    
     }
-    
   }
   
